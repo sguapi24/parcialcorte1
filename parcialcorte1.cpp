@@ -176,4 +176,4 @@ int main() {
     } while (opcion != 4);
 
     return 0;
-}// profe no lo alcanze a terminar la razon es q en este momento 25/3/2024 12:15no me siento en las mejores condiciones  gracias por su entendimiento
+}
